@@ -1,0 +1,29 @@
+Desk front panel control
+
+Zones:
+	Monitors - Lights on the back of the monitors.  This will be ~5 strips
+	Desk - Lights on the bottom of the desk. 1 maybe 2 long strips
+	Glass - Lights on the glass.  2 strips
+	Interior - Lights inside either side of the desk.  2 strips
+	Dash - Lights for the 14 buttons on the dash as well as 4 LEDs that will reflect the color of the zones
+
+	
+Master - Big white button 
+	If lights are on, turn them all off.  
+	If lights are off, turn them back on.
+		This will return them to their previous state.  Could be half on half off etc...
+
+Preset buttons - Cluster of 4 small white buttons
+	If pressed, will turn on/off zones and set the colors.
+	If held (5 seconds) it will save the current status of all the zones.
+	
+Zone buttons - Small red buttons
+	If pressed will toggle that zone off and on
+	The LED for the button will be controlled by the 'Dash' zone button
+	
+Brightness POTS - Top row of the POTS
+	Left most position will be dim
+	Right most position will be bright
+	
+Color POTs -
+	Cycle through all the colors
